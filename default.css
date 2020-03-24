@@ -8,8 +8,8 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #16a085;
-	font-family: 'Raleway', sans-serif;
+	background: #2E628A;
+	font-family: 'Arial', sans-serif;
 	font-size: 11pt;
 	font-weight: 400;
 	color: #363636;
@@ -189,7 +189,7 @@ hr {
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: #16a085;
+		color: #1F3A61;
 	}
 	
 	.title .byline
@@ -286,7 +286,7 @@ hr {
 	{
 		overflow: hidden;
 		height: 500px;
-		background: url(images/pic01.jpg) no-repeat center;
+		background: url(images/running_1.jpg) no-repeat center;
 		background-size: cover;
 	}
 	
@@ -299,7 +299,7 @@ hr {
 
 #menu-wrapper
 {
-	background: #16a085;
+	background: #2E628A;
 }
 
 #menu {
@@ -337,7 +337,7 @@ hr {
 }
 
 #menu .current_page_item a {
-	background: #1abc9c;
+	background: #93ABBA;
 }
 
 /** PAGE */
@@ -598,4 +598,3 @@ hr {
 
 
 
-	
