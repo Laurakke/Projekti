@@ -312,12 +312,20 @@ hr {
 	padding: 0px 0px 0px 0px;
 	list-style: none;
 	line-height: normal;
-	text-align: center;
+	text-align: left;
 }
 
 #menu li {
 	display: inline-block;
 }
+#menu ul li:last-child { 
+	float: right; 
+}
+
+#menu ul li:nth-last-child(2) { 
+	float: right;
+ }
+
 
 #menu a {
 	display: block;
