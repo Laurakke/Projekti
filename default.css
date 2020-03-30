@@ -285,9 +285,9 @@ hr {
 	#banner 
 	{
 		overflow: hidden;
-		height: 500px;
-		background: url(images/running_1.jpg) no-repeat center;
-		background-size: cover;
+		height: 150px;
+		background: url(images/running_1.jpg) repeat center;
+		background-size: 500px;
 	}
 	
 	#banner .image
@@ -567,27 +567,23 @@ hr {
 		color: #B1B1B1;
 	}
 	
-	#box1
-	{
-		float: left;
-		width: 354px;
-		margin-right: 24px;
-		padding-right: 30px;
-	}
+
 	
-	#box2
-	{
+	#box4 {
+		height: 300px;
+		width: 200px;
 		float: left;
-		width: 354px;
-		margin-left: 24px;
-		padding-right: 30px;
 	}
+	#box5 {
+		height: 300px;
+		width: 200px;
+		float: left;
 	
-	#box3
-	{
-		float: right;
-		width: 344px;
-		padding-left: 40px;
+	}
+	#box6 {
+		height: 300px;
+		width: 200px;
+		float: left;
 	}
 
 
