@@ -286,7 +286,7 @@ hr {
 	{
 		overflow: hidden;
 		height: 150px;
-		background: url(images/running_1.jpg) repeat center;
+		background: url(../images/running_1.jpg) repeat center;
 		background-size: 500px;
 	}
 	
